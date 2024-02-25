@@ -5,7 +5,7 @@
 - [Chrome](https://www.google.com/intl/ko/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- [Node.js](https://nodejs.org/ko/)
+- [Node.js](https://nodejs.org/)
 
 ## VSCode 플러그인 목록
 

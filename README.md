@@ -1,5 +1,11 @@
 # 만들면서 배우는 리액트: 컴포넌트 설계와 리팩토링
 
+[만들면서 배우는 리액트: 컴포넌트 설계와 리팩토링](https://inf.run/mGBwi)
+
+<a href="https://inf.run/mGBwi" target="_blank">
+  <img src="https://cdn.inflearn.com/public/courses/333164/cover/becf7429-7eb4-4a74-8e5f-48b8eceb0ad0/333164.png" />
+</a>
+
 ## 개발 환경 구성
 
 - [Chrome](https://www.google.com/intl/ko/chrome/)
